@@ -1,5 +1,5 @@
-﻿//Simple();
-Complex();
+﻿Simple();
+//Complex();
 
 void Simple()
 {
